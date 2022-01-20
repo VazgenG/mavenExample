@@ -4,12 +4,9 @@ import lombok.*;
 import java.io.Serializable;
 
 @Data
-@Getter
-@Setter
-@ToString
 @NoArgsConstructor
 @AllArgsConstructor
-@EqualsAndHashCode
+
 
 public class User implements Serializable {
 

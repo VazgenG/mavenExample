@@ -8,12 +8,9 @@ import lombok.*;
 
 
 @Data
-@Getter
-@Setter
-@ToString
 @NoArgsConstructor
 @AllArgsConstructor
-@EqualsAndHashCode
+
 
 
 public class Lesson implements Serializable {

@@ -7,12 +7,8 @@ import java.io.Serializable;
 import java.util.Objects;
 
 @Data
-@Getter
-@Setter
-@ToString
 @NoArgsConstructor
 @AllArgsConstructor
-@EqualsAndHashCode
 
 
 public class Student implements Serializable {
